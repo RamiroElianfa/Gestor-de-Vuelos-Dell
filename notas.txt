@@ -1,0 +1,10 @@
+Vamos a realizar el programa por clases:
+
+La clase avión no tiene mucho problema:
+-Asientos
+
+la clase vuelo es complejo, ya que un vuelo tiene:
+-Aeropuertos desde donde parte y hasta donde llega
+-Fecha de partida y fecha de llegada
+-Disponibilidad
+-Precio
